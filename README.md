@@ -1,3 +1,2 @@
-# terminalConfigfiles
-# terminalConfigfiles
-# terminal__config__files
+# terminal Config files
+
